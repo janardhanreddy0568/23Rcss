@@ -1,0 +1,58 @@
+table,tr,td{
+    border:2px solid black;
+    border-collapse: collapse;
+}
+
+#td1{
+    background-color: rgb(43, 226, 116);
+}
+#td2{
+    background-color: rgb(180, 226, 43);
+}
+#td3{
+    background-color: rgb(43, 107, 226);
+}#td4{
+    background-color: rgb(192, 43, 226);
+}#td5{
+    background-color: rgb(179, 236, 229);
+}#td6{
+    background-color: rgb(15, 15, 14);
+}#td7{
+    background-color: rgb(109, 113, 96);
+}#td8{
+    background-color: rgb(140, 142, 133);
+}#td9{
+    background-color: rgb(217, 43, 226);
+}#td10{
+    background-color: rgb(126, 72, 131);
+}#td11{
+    background-color: rgb(31, 13, 105);
+}#td12{
+    background-color: rgb(43, 226, 177);
+}#td13{
+    background-color: rgb(100, 120, 39);
+}#td14{
+    background-color: rgb(239, 233, 253);
+}#td15{
+    background-color: rgb(180, 226, 43);
+}#td16{
+    background-color: rgba(179, 227, 35, 0.511);
+}#td17{
+    background-color: rgb(210, 108, 11);
+}#td18{
+    background-color: rgb(69, 119, 146);
+}#td19{
+    background-color: rgb(180, 226, 43);
+}#td20{
+    background-color: rgb(180, 226, 43);
+}#td21{
+    background-color: rgb(140, 162, 73);
+}#td22{
+    background-color: rgb(43, 49, 226);
+}#td23{
+    background-color: rgb(227, 228, 224);
+}#td24{
+    background-color: rgb(46, 48, 40);
+}#td25{
+    background-color: rgb(43, 226, 168);
+}
